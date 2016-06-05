@@ -16,11 +16,11 @@ Referaty z tematyki pracy (proszę wpisać tytuły):
 | 03.04.2016  | J. Buczyński    |  |
 | 10.04.2016  | M. Jakóbowski   |  |
 | 10.04.2016  | K. Zieliński    | [Kontroler Internetu Rzeczy](http://1drv.ms/23tBR4I) |
-| 10.04.2016  | A. Pająkowski   |  |
+| 10.04.2016  | A. Pająkowski   | [Social Media - praktyczne i niepraktyczne zastosowania](https://slides.com/apajakowski/deck-1#/) |
 | 2. referaty |                 |  |
 | 08.05.2016  | M. Michalski    | [Indigo project](http://slides.com/mateuszmichalski/deck-2/fullscreen#/) |
 | 08.05.2016  | T. Franckiewicz | [Prezentacja makiety](http://dev.tomasz.fr/ug) |
-| 08.05.2016  | A. Pająkowski   |  |
+| 08.05.2016  | A. Pająkowski   | [Dron - rozpoznawanie twarzy](https://slides.com/apajakowski/deck-2#/) |
 | 22.05.2016  | J. Buczyński    |  |
 | 22.05.2016  | M. Jakóbowski   |  |
 | 22.05.2016  | K. Zieliński    |  [iGrapho project](https://1drv.ms/p/s!AogBbZBsiJmflEVnmRYuTAmu0Nlv)|
